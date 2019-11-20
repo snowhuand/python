@@ -1,0 +1,23 @@
+Week 8: data
+
+Data - raw facts
+- Primary data: Collect directly through survey, interview, etc.
+- Secondary data: Collect it indirectly through search engine
+- eg. text, numbers, images
+- eg. 10.1, 11.2, 9.6, 9.2, 10.9
+
+Information
+- Data put into the right context
+- eg. The following is the sprint times for different athletes
+        John->10.1, Phelp->11.2, Bryan->9.6, Michael->9.2, Joseph->10.9
+
+Knowledge
+- Obtained through applying a set of rules.
+- eg. The fastest sprinter is Phelp.
+- eg. 130 km/hr, the speed limit is 90km/hr, this driver is speeding.
+
+http://pythonplayground.crunchycodes.net
+
+Activity 1:
+- Use a for loop to sum up the numbers from 1 to 5, then print the total.
+- for x in range(...):

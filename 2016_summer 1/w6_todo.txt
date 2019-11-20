@@ -1,0 +1,36 @@
+Week 6 Todo:
+
+Python implementation for:
+	Task 1:
+        get numOne
+        get numTwo
+        total = numOne + numTwo
+        display total
+	Task 2:
+        Get houseCost
+        Get landSize
+        Get landCost
+        totalLandCost = landSize * landCost
+            totalCost = totalLandCost + houseCost
+        display totalLandCost
+
+	Task 3:
+        Get height
+        Get weight
+        Calculate BMI (BMI = weight/(height^2 ))
+        Show BMI
+
+	Task 4: No need, already done in lecture demo.
+
+	Task 5:
+        Generate a random number between a range. (refer to get_lucky_no() in lecture demo)
+
+	Task 6:
+        Calculate leap years
+
+	Task 7:
+	    Excel exercise, end results:
+
+Pycharm
+
+https://github.com/yokyen/2016_summer.git
