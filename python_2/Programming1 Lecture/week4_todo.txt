@@ -1,0 +1,9 @@
+Week 4 Todo:
+- Walkthrough (totalIncome.py)
+  (Things to do (1-7), page 2)
+- Intermediate
+  - Part 1 - find min, max, avg of numbers
+  - Part 2 - Security checker
+  - Part 3 - List comprehension
+- Do-from-scratch
+  - quickpick.py

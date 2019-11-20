@@ -1,0 +1,7 @@
+Week 2 Todo
+1. capitalist_conrad.py (Page 3-4, Things to do 1 & 2)
+2. asciiTable.py (Page 4, 5, Things to do 1, 2)
+3. Files (Page 5, 6 Things to do 1, 2, 3)
+4. passwordChecker.py (Page 5-7)
+
+CP5632 3 hours on week 3 Tue 9-12 (29 Nov) B2-04

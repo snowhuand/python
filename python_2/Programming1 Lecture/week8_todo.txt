@@ -1,0 +1,10 @@
+Week 8 practicals
+- Inheritance
+    - Modification: Modify Taxi/Car class
+      and add in test programs
+    - Class Variables: Change on the class itself
+    - Intermediate Exercises
+        - UnreliableCar
+        - SilverServiceTaxi
+    - Do-from-scratch (try if you can do it)
+- Code Review, No need to do

@@ -1,0 +1,14 @@
+Week 3 Todo:
+1. Walkthrough: Create Sandbox project from pycharm
+   and load to github
+
+2. Intermediate
+    a. get_number(lower, upper)
+
+3. Do-from-scratch
+    temperatures.py
+    a. convert_to_celsius(farenheit)
+    b. convert_to_farenheit(celsius)
+
+    brokenScore.py
+    a. getScore(input_score)

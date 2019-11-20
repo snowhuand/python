@@ -1,0 +1,140 @@
+1. install python
+   - 3.4
+
+2. install pycharm
+	- community version
+	- professional version
+		- sign up using jcu email address
+
+3. install Git
+
+4. Sign up a github account
+	- using your jcu email address
+	- for creating private repository
+	- assignment: create private repository,
+	              invite me for collaboration
+
+5. install kivy follow installation guide
+https://github.com/yokyen/2016_winter
+
+VCS-> update project
+
+Manually
+- Open cmd / terminal
+- type:
+  git clone https://github.com/yokyen/2016_winter
+
+Chapter 01
+- Naming convention
+	- variable:
+		- Lower case
+		- eg. temperature,
+		- Camel case: firstName
+		- underscore: first_name
+	- Constant:
+		- All uppercase
+		- eg. FILENAME
+	- wrong eg. 123Num, *yuiy
+	- Make meaningful name
+		- def calculate_ticket_price():
+- Module:
+	- A file that contains python code
+	- import math
+	- from math import pi
+
+Chapter 02
+- maths operator:
+	print(x + y)
+	print(x - y)
+	print(x * y)
+	print(x / y)
+	print(x // y) # integer division
+	print(x ** 3)
+	print(x % y)
+- Augmented operator/ shortcut operator
+	x += 10 # x = x +10
+	print(x)
+	x -= 5
+	x *= 2
+	x /= 5
+
+- Precedence of operator:
+	1. ()
+	2. **
+	3. +x, -x
+	4. *, /, %, //
+	5. +, -
+	6. Comparison (<, >, ...)
+	7. not x
+	8. and
+	9. or
+
+- if selection
+	if x == 10 and y == 5:
+	    print("true")
+	elif x ==10:
+	    print("x is 10")
+	else:
+	    print("false")
+- while
+	while x > 0:
+    x -= 1
+    print(x)
+- for
+	# range(start, end, step)
+	for num in range(10, 0, -2):
+	    print(num)
+
+	print("-------------")
+	# the ending number is always excluded
+	# the beginning number is always included
+	for num in range(5):
+	    print(num)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

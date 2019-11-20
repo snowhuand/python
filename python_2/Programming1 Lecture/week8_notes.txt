@@ -1,0 +1,4 @@
+Object oriented programming
+- Relationship between objects
+    - Is-A relationship, use inheritance, eg. Taxi is a Car (Taxi inherit from Car)
+    - Has-A relationship, use attributes, eg. Taxi has wheels (Taxi contains wheels attributes)
